@@ -1,3 +1,5 @@
+TASK 1 Create a Digital Literacy Awareness Infographic
+
 I created my Digital Literacy infographic using Canva, as it provides a wide range of templates and design tools that make designing simple and effective. 
 The infographic is titled “Digital Literacy: Essential Skills for Students” and focuses on three key areas: understanding digital literacy, useful digital tools, 
 and maintaining a professional online presence.
