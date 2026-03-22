@@ -12,4 +12,5 @@ While designing the infographic, I found it interesting to organize information 
 the most relevant tools and keeping the content concise without making the design too crowded.
 
 
-<img width="1587" height="2245" alt="Artificial Intelligence in Poster" src="https://github.com/user-attachments/assets/8c9fc9ee-491c-468d-b5e2-83888b6ad906" />
+<img width="1587" height="2245" alt="Artificial Intelligence in Poster (1)" src="https://github.com/user-attachments/assets/a3c7bf1b-e072-42f6-9b3d-959ef05acd3e" />
+
