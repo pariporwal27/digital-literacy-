@@ -8,4 +8,6 @@ building a professional online presence by maintaining clean profiles, sharing a
 
 While designing the infographic, I found it interesting to organize information in a visually appealing way using icons and colors. One challenge I faced was selecting
 the most relevant tools and keeping the content concise without making the design too crowded.
+
+
 <img width="1587" height="2245" alt="Artificial Intelligence in Poster" src="https://github.com/user-attachments/assets/8c9fc9ee-491c-468d-b5e2-83888b6ad906" />
