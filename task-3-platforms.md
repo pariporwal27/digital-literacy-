@@ -8,12 +8,12 @@ These platforms are very useful for academic growth. HackerRank helps in improvi
 
 Screenshot :
 
-## HackerRank
+### HackerRank
 
 <img width="1626" height="257" alt="image" src="https://github.com/user-attachments/assets/3168fbb8-1e86-4204-bf1b-2d2641ca5091" />
 <img width="1617" height="532" alt="image" src="https://github.com/user-attachments/assets/44a7c719-1876-4766-9c82-60e2299fd43d" />
 <br><br>
-## Google Form
+### Google Form
 <br><br>
 link : https://docs.google.com/forms/d/e/1FAIpQLSejArJ9iSChZOY_bHuoA3fOu6ePOINwNL1HUuGZOhNeJ5zAug/viewform?usp=dialog
 <br><br>
