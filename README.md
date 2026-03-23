@@ -3,7 +3,6 @@
 ##  Student Details
 Name: Pari Porwal  
 Registration Number: 25BAI1001
-
 Branch: B.Tech Cse (AI & ML)  
 Year: First Year  
 
