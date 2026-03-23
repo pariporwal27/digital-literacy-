@@ -24,34 +24,34 @@ This project was completed as part of the Digital Literacy course. The objective
 
 
 
-## 📝 Task Summary
+##  Task Summary
 
-### 🔹 Task 1: Digital Literacy Infographic
+###  Task 1: Digital Literacy Infographic
 Created an infographic using Canva explaining digital literacy, useful tools, and professional online presence.
 
-### 🔹 Task 2: Digital Portfolio
+###  Task 2: Digital Portfolio
 Developed profiles on GitHub, LinkedIn, and Kaggle to build a professional digital presence.
 
-### 🔹 Task 3: Coding & Collaboration Platforms
+###  Task 3: Coding & Collaboration Platforms
 Solved a beginner-level problem on HackerRank and created a Google Form quiz.
 
-### 🔹 Task 4: Email Etiquette & Social Media
+###  Task 4: Email Etiquette & Social Media
 Drafted professional emails and created a social media Do’s and Don’ts checklist.
 
-### 🔹 Task 5: Cybercrime Awareness
+###  Task 5: Cybercrime Awareness
 Prepared a case study on UPI fraud and created a prevention checklist.
 
----
 
-## 🔗 Google Form Link
+
+##  Google Form Link
 (Add your Google Form link here)
 
----
 
-## 🚀 Learning Outcome
+
+##  Learning Outcome
 Through this project, I learned how to use digital tools effectively, maintain a professional online presence, communicate properly through emails, and stay safe from cyber threats.
 
----
+
 
 ## 📚 References
 - https://www.canva.com  
