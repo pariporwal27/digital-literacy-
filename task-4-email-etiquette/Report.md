@@ -1,6 +1,6 @@
 # **TASK 4 - Draft a Professional Email & Etiquette Guide**
-In digital communication, poor email etiquette can often lead to misunderstandings and negative impressions. For example, if a student sends an email to a professor without a subject line, uses informal language, or does not include a proper greeting, it may appear unprofessional and disrespectful. This can result in the email being ignored or not taken seriously.
+In this task, I worked on understanding and applying proper digital communication practices. In Part A, I drafted two professional emails: one requesting an extension for an assignment and another expressing interest in a summer internship opportunity. While writing these emails, I ensured that they included clear subject lines, polite greetings, a well-structured body, and appropriate sign-offs. This helped me understand the importance of maintaining a formal tone and clarity in communication.
 
-Such situations can be avoided by following proper email etiquette, including using a clear subject line, addressing the recipient politely, and maintaining a formal tone throughout the message. It is also important to structure the email properly and end it with an appropriate sign-off.
+In Part B, I created a social media Do’s and Don’ts checklist to promote responsible online behavior among students. The checklist highlights key practices such as maintaining a professional profile, respecting others online, and avoiding the sharing of sensitive information or inappropriate content.
 
-Through this task, I understood the importance of clear and professional communication in academic and professional settings. Good email practices help in conveying messages effectively and creating a positive impression.
+Through this task, I learned how effective communication and responsible social media use are essential for building a positive digital presence.
