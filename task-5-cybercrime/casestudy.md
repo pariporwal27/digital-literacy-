@@ -1,1 +1,6 @@
+# Case Study - UPI Fraud
+UPI fraud is one of the most common types of cybercrime in India, where scammers trick individuals into authorizing fraudulent transactions. These scams often target students and inexperienced users by exploiting their lack of awareness about digital payment systems. A typical real-life case from 2023 involved a college student who was selling a used item on an online marketplace.
 
+The incident began when the student listed the product online and was quickly contacted by a person posing as a genuine buyer. Within a few hours, the fraudster expressed interest and requested the student’s UPI ID to transfer the payment. Instead of sending money, the scammer sent a payment request and simultaneously called the student, guiding them through the process. The student was told that entering the UPI PIN was necessary to receive the payment. Trusting the caller, the student entered the PIN, and within minutes, ₹5,000 was debited from their account. Immediately after the transaction, the fraudster became unreachable and blocked all communication.
+
+This case demonstrates how scammers manipulate victims into approving transactions themselves, leading to instant financial loss. Such cases are frequently reported on the National Cyber Crime Portal (cybercrime.gov.in) in India.
