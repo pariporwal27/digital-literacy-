@@ -1,11 +1,5 @@
 # **Task 3 : Explore Coding & Collaboration Platforms**
 
-For this task, I explored both a coding practice platform and a collaboration tool. I used HackerRank as my coding platform, where I created an account and solved a beginner-level problem. This helped me understand how coding challenges are structured and improved my problem-solving skills. I also explored my HackerRank profile and included badges earned on the platform, which reflect progress and achievements in different areas.
-
-For the collaboration part, I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of five questions related to digital literacy concepts such as internet safety, strong passwords, and professional online presence. I shared the form and recorded responses, which were automatically stored in a linked Google Sheet.
-
-These platforms are very useful for academic growth. HackerRank helps in improving coding skills and preparing for technical interviews, while Google Forms is helpful for collecting data, conducting quizzes, and collaborating with others. Through this task, I learned how these tools can be effectively used for both learning and interaction in a digital environment.
-
 Screenshot :
 
  ## HackerRank
