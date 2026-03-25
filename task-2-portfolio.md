@@ -1,5 +1,4 @@
-# **Task 2 : Build Your Student Digital Portfolio**
-<br><br>                                                                                                                                                            
+# **Task 2 : Build Your Student Digital Portfolio**                                                                                                                                                          
  Screenshots :                                                                                                                                                      <br><br>  
  1. GitHub
 <br>
