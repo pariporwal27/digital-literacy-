@@ -8,8 +8,8 @@
 - Respect others online  
 
 ##  Don’ts
-- Do not share personal or sensitive information  
-- Avoid posting inappropriate content  
-- Do not engage in online arguments  
-- Avoid spreading misinformation  
-- Do not use offensive language  
+- Don’t share personal or sensitive information
+- Don’t post inappropriate content
+- Don’t get involved in online arguments
+- Don’t spread misinformation
+- Don’t use offensive language
