@@ -9,8 +9,7 @@ Year: First Year
 
 
 ## Project Overview
-This project was completed as part of the Digital Literacy course. The objective of this project is to understand and apply essential digital skills required for academic and professional growth. It includes tasks related to creating digital content, building an online presence, exploring coding platforms, practicing email etiquette, and understanding cybercrime awareness.
-
+The project was completed under the Digital Literacy course. The purpose of this project is to learn and apply the basic digital literacy skills needed for academic and professional development. The project involves various tasks related to the creation of digital content, developing an online presence, coding sites, email etiquette, and cybercrime awareness.
 
 
 ## Project Structure
